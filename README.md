@@ -40,3 +40,8 @@
   </a>
 </p>
 </br>
+<!-- FOOTER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:A31621,50:CED3DC,100:4E8098&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
